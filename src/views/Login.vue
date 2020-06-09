@@ -43,7 +43,7 @@
                                 <!--                  Remember me-->
                                 <!--                </base-checkbox>-->
                                 <div class="text-center">
-                                    <base-button type="primary" class="my-4" @click="submit">Entrar</base-button>
+                                    <base-button type="primary" block class="my-4" @click="submit">Entrar</base-button>
                                 </div>
                             </form>
                         </template>

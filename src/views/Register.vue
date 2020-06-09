@@ -52,7 +52,7 @@
                                     </span>
                                 </base-checkbox>-->
                                 <div class="text-center">
-                                    <base-button type="primary" class="my-4" @click="submit">Criar conta</base-button>
+                                    <base-button type="primary" block class="my-4" @click="submit">Criar conta</base-button>
                                 </div>
                             </form>
                         </template>
